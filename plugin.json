@@ -1,0 +1,5 @@
+{
+	"version": "1.0",
+	"title": "Chart.js",
+	"description": "Adds a shortcode to load chart.js javascript library and enable you to create a chart"	
+}
